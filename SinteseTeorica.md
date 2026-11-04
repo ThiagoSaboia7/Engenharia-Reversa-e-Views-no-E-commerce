@@ -17,6 +17,9 @@ A requisição do gerente financeiro por uma View — em vez da distribuição d
 
 ---
 
+*Autores:* [Thiago saboia](https://github.com/ThiagoSaboia7) --- [João Victor](https://github.com/Joao-Victorx)
+
+
 ## Referências
 
 DEVMEDIA. MySQL – Trabalhando com Views. Disponível em: https://www.devmedia.com.br/mysql-trabalhando-com-views/8724. Acesso em: 3 nov. 2026.
